@@ -1,0 +1,119 @@
+/* html {
+  scroll-behavior: smooth;
+} */
+
+body {
+  position: relative;
+}
+
+h1, h2, h3, h4, h5, a {
+  color: #314657;
+
+}
+
+#prenav {
+    text-align: center;
+}
+
+.bstyle {
+    border-right: 1px solid #E0E4E9;
+
+
+}
+
+/* .navid {
+    border-right: solid black;
+} */
+}
+
+/* SMOOTH SCROLL BUTTON */
+
+#gototopBtn {
+  padding-bottom: 20px;
+}
+
+
+/* PRIMARY BUTTONS */
+
+.btn-primary {
+    color: #fff;
+    background-color: #6B808E;
+    border-color: #465A65;
+
+}
+
+.list-group-item.active {
+  z-index: 2;
+  color: #fff;
+  background-color: #6B808E;
+  border-color: #465A65;
+}
+
+/* CONTACT FORM */
+
+contact {
+    text-align: center;
+    border-top: 1px solid #E0E4E9;
+    margin: 20px 20px;
+}
+
+.containerall {
+  margin-top: 10px;
+}
+
+/* contact form */
+
+.contact-form{
+    background: -webkit-linear-gradient(left, #6B808E, #B0C2CE);
+    margin-top: 10%;
+    margin-bottom: 5%;
+    width: 70%;
+}
+.contact-form .form-control{
+    border-radius:1rem;
+}
+.contact-image{
+    text-align: center;
+}
+.contact-image img{
+    border-radius: 6rem;
+    width: 31%;
+    margin-top: -8%;
+    transform: rotate(0deg);
+}
+.contact-form form{
+    padding: 14%;
+}
+.contact-form form .row{
+    margin-bottom: -7%;
+}
+.contact-form h3{
+    margin-bottom: 8%;
+    margin-top: -10%;
+    text-align: center;
+
+}
+.contact-form .btnContact {
+    width: 50%;
+    border: none;
+    border-radius: 1rem;
+    padding: 1.5%;
+    background: #dc3545;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+}
+.btnContactSubmit
+{
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    color: #fff;
+    background-color: #0062cc;
+    border: none;
+    cursor: pointer;
+}
+
+.footer {
+padding-bottom: 20px;
+}
